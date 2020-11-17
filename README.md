@@ -17,3 +17,5 @@ To get this into alfred:
     - `CELLAR_TRACKER_PASSWORD`
     - `CELLAR_TRACKER_UNAME`
     - `PATH` -> `/user/local/bin:/user/bin/:$PATH`
+
+![Example animation](https://github.com/rodericj/AlfredWine/raw/master/media/example.gif)
