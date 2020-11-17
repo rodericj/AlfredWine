@@ -2,9 +2,6 @@
 
 This will fetch your wine cellar contents from cellartracker.com, convert it to JSON and display it in an Alfred List.
 
-Found this tutorial::
-https://techexpert.tips/ubuntu/convert-csv-to-json-using-command-line/
-
 ### Requirements
 - [jq](https://linux.die.net/man/1/iconv)
 - [csvtojson](https://www.npmjs.com/package/csvtojson)
